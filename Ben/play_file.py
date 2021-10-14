@@ -1,4 +1,7 @@
-# type "python ben.py" in the shell to the right to run this file
+# type "python Ben/play_file.py" in the shell to the right to run this file
+
+# use this file to play around and try things.
+
 # print('This is Ben\'s File')
 # print(200+50)
 # print(10**3-750)

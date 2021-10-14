@@ -4,7 +4,7 @@
       {
         "id": "86f66564-0b02-4ce1-a1bf-afc317f54b34",
         "line": 5,
-        "version": 758,
+        "version": 2203,
         "index": 163
       }
     ],
@@ -14,6 +14,14 @@
         "line": 2,
         "version": 135,
         "index": 66
+      }
+    ],
+    "main.py": [
+      {
+        "id": "8e19e9e5-39f3-46c1-ab11-8e46ee325285",
+        "line": 8,
+        "version": 887,
+        "index": 127
       }
     ]
   }

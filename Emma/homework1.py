@@ -19,3 +19,5 @@
 # Feel free to make this fun by introducing them to the game and giving some hints to the game. Or not. It's you're choice. You're just responsible to output the info.
 
 # Put your final code in the "game_part_1.py" file. Make sure that when I run the file I get the questions and the final output in the console.
+
+# Feel free to email me any questions you have (jonathanwadsworth@gmail.com), and I'll answer as soon as I can.

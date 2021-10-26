@@ -1,5 +1,13 @@
 {
   "files": {
+    "Emma/game_part_1.py": [
+      {
+        "id": "b1c8bca4-d8cd-4257-9177-f975964a2bb8",
+        "line": 8,
+        "version": 517,
+        "index": 220
+      }
+    ],
     "Monster_Escape/game.py": [
       {
         "id": "86f66564-0b02-4ce1-a1bf-afc317f54b34",
@@ -19,9 +27,9 @@
     "main.py": [
       {
         "id": "8e19e9e5-39f3-46c1-ab11-8e46ee325285",
-        "line": 8,
-        "version": 887,
-        "index": 127
+        "line": 1,
+        "version": 1106,
+        "index": 0
       }
     ]
   }

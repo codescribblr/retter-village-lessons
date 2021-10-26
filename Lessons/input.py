@@ -12,3 +12,14 @@ character_name = input("What's your character's name?")
 
 print(f'Welcome to the game, {character_name}')
 
+# You can use multiple input statements to collect more information.
+
+name = input("Hi! What is your name? ")
+print(f"Hello, {name}. Welcome to Pastorelli's Pizza and Pasta.")
+entre = input("What would you like for dinner? ")
+drink = input("What would you like to drink? ")
+dessert = input("And for dessert? ")
+
+print(f"OK. So you'd like {entre} for dinner, {drink} to drink, and {dessert} for dessert.")
+
+confirm = input("Is that correct?")

@@ -1,27 +1,8 @@
-# print(200+50)
+import Monster_Escape.game_example
 
-# print(10**3-750)
+# click "Run" to start the example monster game. 
 
-# bens_stuff = 'way too much stuff'
-# print('stop loop')
-# print(f"Ben has {bens_stuff}")
-
-#  print (hiiiii!!!!!
-# )?
-
-# print('Please enter your name for the game.')
-# x = 1
-# comparison operators are == > < <= >=
-
-
-# while(x==1) :
-  # name = input('What is your name? ')
-  # print(f"Hi, {name}. Welcome to the game.")
-  # x = 2
-
-# print('Will this ever print?')
-# print('stop da loop')
-# where are all the files
+# It's not exacly the same, but it uses many of the same concepts. You can read through this to get an idea of how to build the different pieces we'll be building. 
 
 ########################################################################
 # Please DON'T edit the files in Lessons. There's no way to get the text back if you delete it. :(

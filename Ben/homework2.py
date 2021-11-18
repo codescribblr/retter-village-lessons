@@ -14,7 +14,7 @@
 # 4. What is the starting HP of the player based on the level they chose?
 
 # Bonus: Create variables for the total number of turns taken, moves per turn,  moves left in current turn, base damage of the monsters, and current_score.
-# Take the skill that the player chose and calculate the value of their stat based on their chosen skill. If the player chose speed, then make sure they have 2 moves per turn and 2 moves left in the current turn. If the player chose strength, then make sure the monsters are set to deal 2 damage.
+# Take the skill that the player chose and calculate the value of their stat based on their chosen skill. If the player chose speed, then make sure they have 2 moves per turn and 2 moves left in the current turn. If the player chose strength, then make sure the monsters are set to deal 1 damage.
 
 # Double Bonus: Create a stat board to display all of these values to the user after each turn.
 

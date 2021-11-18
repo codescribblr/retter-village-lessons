@@ -13,3 +13,6 @@
 #MJ let's say the variable name is fish. if you store an integer in the variable, you can do math on it. so if you set fish = 10, then you can do fish = fish + 10. Make sense?
 # B it says i have a syntax error but i dont know what it is
 #MJ It looks like you've tried to use an if/else statement. But the way you typed it is not quite right. We'll talk about how to do these statements today. :)
+#j how are we supposed to ask the player which side he wants to be on?
+# B it says i have an unexpected indent block. What does that mean?
+#j what is homework 3
